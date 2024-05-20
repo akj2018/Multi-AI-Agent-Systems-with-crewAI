@@ -4,10 +4,10 @@ Automate business workflows with multi AI agent systems
 ## Goal
 Designing effective AI agents and organize team of AI agents them to perform complex, multi-step tasks.
 
-## Key Components of Multi-agent system
+## Key Components of AI Agent
 <ul>
   <li><b>Role:</b> Assign specialized role to agents</li>
-  <li><b>Memory:</b> Provide agents with short-term, long-term and shared memory</li>
+  <li><b>Memory:</b> Provide agents with short-term, long-term and entity memory</li>
   <li><b>Tools:</b> Assign pre-built and custom tools to each agent (eg. for web search)</li>
   <li><b>Focus:</b> Break down task, goals and tools and assign multiple AI agents for better performance</li>
   <li><b>Guardrails:</b> Effectively handle errors, hallucinations and infinite loops.</li>
