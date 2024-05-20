@@ -19,7 +19,8 @@ Designing effective AI agents and organize team of AI agents them to perform com
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/e54c7770-db7b-4464-b0c7-4b91c4e98acd)
 
 ## crewAI
-Open source library for building multi-agent systems.
+Framework for building multi-agent systems (that are autonomous, role-playing and collaborate)
+<br>
 crew : Team of AI agents working together, each with a specific role.
 
 ## Applications of multi-agent systems.
@@ -58,4 +59,29 @@ Reason why people love chatGPT: <b>Probablistic nature</b>
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/92fc74cd-6574-49ce-b37d-5ac79f0ba0fb)
 
+## Why AI Agents better than LLMs
+#### LLMs 
+Provide human feedback iteratively to fine-tune response</li>
+
+#### AI Agents
+When LLMs operate autonomously, they become agents. AI Agents ask and answer questions on its own.
+
+LLMs +  Cognition = AI Agents.
+
+![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/75006d77-a7b1-493f-ad69-9fe6809dfba0)
+
+#### Supercharge AI Agents with Tools
+AI Agents use built-in and custom tools to perform tasks (calling API, posting online, gathering data)
+
+![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/e2a49918-98b1-47ea-b13a-3cb7fa416420)
+
+## Why Multi AI Agents rather single agent 
+
+<ol>
+  <li>Assign specific role and specific task to each agent and improved output. Eg. One agent does exhaustive research and other does professional writing.</li>
+  <li>Use different LLMs for specific tasks</li>
+</ol>
+
+![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/9ca0ed1b-275c-4844-a7a9-38689a6f4558)
+![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/e5f32cc8-7129-470f-b6bd-00baaa3c83a5)
 
