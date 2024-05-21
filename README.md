@@ -249,3 +249,5 @@ my_crew = Crew(
     verbose=True
 )
 ```
+![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/0c55c13d-1468-44be-9aa9-44ba00ecebcb)
+
