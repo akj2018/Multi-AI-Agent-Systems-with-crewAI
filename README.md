@@ -221,10 +221,10 @@ write_article = Task(
 )
 ```
 
-#### Gaurdrails
+### Gaurdrails
 Implemented at Framework level to prevrnt hallucinations, errors and infintite loops. 
 
-#### Memory
+### Memory
 CrewAI provides short-term memory, long-term memory, entity memory, and newly identified contextual memory to help AI agents to remember, reason, and learn from past interactions.
 
 Advantages of Memory
@@ -250,4 +250,19 @@ my_crew = Crew(
 )
 ```
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/0c55c13d-1468-44be-9aa9-44ba00ecebcb)
+
+### Mental Framework for Agent creations
+
+Think of yourself as a **Manager**
+
+Answer 3 questions: 
+<ol>
+  <li>What is the Goal ?</li>
+  <li>What is the Process ?</li>
+  <li>What kind of people I would like to hire, to get the work done</li>
+</ol>
+
+This will help to create agents (roles, goals, backstory)
+
+![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/e91b1c62-f62d-4316-a5b5-ef152cb27cf7)
 
