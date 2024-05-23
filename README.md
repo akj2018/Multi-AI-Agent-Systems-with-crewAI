@@ -266,3 +266,12 @@ This will help to create agents (roles, goals, backstory)
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/e91b1c62-f62d-4316-a5b5-ef152cb27cf7)
 
+## What makes a great Tool ?
+
+- **Versatile:** Hndle Fuzzy inputs and provide strongly typed outputs
+- **Caching Mechanism:** Reuse previous results. Caching layer prevent unnecessary requests, stay within rate limits, speed up execution time
+- **Error Handling:**  Gracefully handle erors & exceptions. How ? Sending error message to agent and ask agent to retry
+
+ **NOTE:** CrewAI supports both crewAI Toolkit and LangChain Tools
+
+ 
