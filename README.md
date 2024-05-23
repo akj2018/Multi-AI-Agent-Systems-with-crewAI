@@ -274,4 +274,20 @@ This will help to create agents (roles, goals, backstory)
 
  **NOTE:** CrewAI supports both crewAI Toolkit and LangChain Tools
 
+## Mental Framework for Task creations
+
+Think of yourself as a **Manager**
+
+Ask what kind of process and tasks I expect individuals on my team to do.
+
+Task requires min. 3 things: 
+<ol>
+  <li>description</li>
+  <li>expected_output</li>
+  <li>agent that will perform the task</li>
+</ol>
+
+![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/2243837a-53da-4fb0-9e51-4670283ebc5e)
+
+
  
