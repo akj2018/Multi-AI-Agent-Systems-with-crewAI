@@ -289,5 +289,18 @@ Task requires min. 3 things:
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/2243837a-53da-4fb0-9e51-4670283ebc5e)
 
+## Multi-agent Collaboration
+
+### Problem with Sequential Collaboration
+
+Initial context fades away as tasks flows from agent to agent.
+
+![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/bb872f15-5a2f-46a7-8f13-e275417bf223)
+
+### Advantages with Hierarchical Collaboration
+
+- Manager always remeber initial goal
+- Automatically delegates tasks
+- Asks agents for further improvement, if required.
 
  
