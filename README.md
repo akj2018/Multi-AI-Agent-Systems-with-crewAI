@@ -14,6 +14,8 @@ LLMs +  Cognition = AI Agents.
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/75006d77-a7b1-493f-ad69-9fe6809dfba0)
 
+Source: deeplearning.ai
+
 ## crewAI
 Framework for building multi-agent systems (that are autonomous, role-playing and collaborate)
 <br>
@@ -28,6 +30,8 @@ crew : Team of AI agents working together, each with a specific role.
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/9ca0ed1b-275c-4844-a7a9-38689a6f4558)
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/e5f32cc8-7129-470f-b6bd-00baaa3c83a5)
+
+Source: deeplearning.ai
 
 ## Applications of multi-agent systems.
 <ul>
@@ -47,6 +51,8 @@ Reason why people love chatGPT: <b>Probablistic nature</b>
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/2421f98a-a0e0-4592-9d29-8611b066b858)
 
+Source: deeplearning.ai
+
 ## How Agentic Automation improves regular automation
 
 ### Regular Automation (Regular Data Collection and Analysis)
@@ -57,6 +63,8 @@ Reason why people love chatGPT: <b>Probablistic nature</b>
   
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/2d50a509-3f21-4dea-af08-4f862eecf244)
 
+Source: deeplearning.ai
+
 ### Agentic Automation (Data Collection and Analysis using crew)
 
 - AI agent research about company (via Google, internal database)
@@ -65,6 +73,8 @@ Reason why people love chatGPT: <b>Probablistic nature</b>
 - AI agent provides intelligent questions to ask based on scores 
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/92fc74cd-6574-49ce-b37d-5ac79f0ba0fb)
+
+Source: deeplearning.ai
 
 ## Key Components of AI Agent
 <ul>
@@ -79,6 +89,8 @@ Reason why people love chatGPT: <b>Probablistic nature</b>
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/93a98968-ed9d-4979-902a-4843d0a0228e)
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/ec2537e1-563c-4a94-a33e-4f811ca39eda)
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/e54c7770-db7b-4464-b0c7-4b91c4e98acd)
+
+Source: deeplearning.ai
 
 ### Role Playing  
 More specific role = Better response. Gives clear idea about agent's function in the crew.
@@ -233,6 +245,7 @@ Advantages of Memory
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/7aee6070-7896-44ed-88d1-af9b1ece7edb)
 
+Source: deeplearning.ai
 
 Enable memory by setting memory=True in the Crew objects arguments.
 
@@ -250,6 +263,8 @@ my_crew = Crew(
 ```
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/0c55c13d-1468-44be-9aa9-44ba00ecebcb)
 
+Source: deeplearning.ai
+
 ## Mental Framework for Agent creations
 
 Think of yourself as a **Manager**
@@ -264,6 +279,8 @@ Answer 3 questions:
 This will help to create agents (roles, goals, backstory)
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/e91b1c62-f62d-4316-a5b5-ef152cb27cf7)
+
+Source: deeplearning.ai
 
 ## What makes a great Tool ?
 
@@ -288,6 +305,8 @@ Task requires min. 3 things:
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/2243837a-53da-4fb0-9e51-4670283ebc5e)
 
+Source: deeplearning.ai
+
 ## Multi-agent Collaboration
 
 ### Problem with Sequential Collaboration
@@ -295,6 +314,8 @@ Task requires min. 3 things:
 Initial context fades away as tasks flows from agent to agent.
 
 ![image](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/assets/43956935/bb872f15-5a2f-46a7-8f13-e275417bf223)
+
+Source: deeplearning.ai
 
 ### Advantages with Hierarchical Collaboration
 
