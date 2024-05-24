@@ -1,6 +1,5 @@
 # Multi-AI-Agent-Systems-with-crewAI
-Automate business workflows with multi AI agent systems
-
+This project is dedicated to automating business workflows using multi-agent AI systems. By leveraging the power of autonomous AI agents, this framework enables efficient and effective performance of complex, multi-step tasks. 
 ## Goal
 Designing effective AI agents and organize team of AI agents them to perform complex, multi-step tasks.
 
